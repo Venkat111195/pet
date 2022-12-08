@@ -6,8 +6,8 @@ pipeline {
 	
 	environment {
 		PROJECT_ID = 'steel-pod-365713'
-                CLUSTER_NAME = 'venkat'
-                LOCATION = 'us-west4-b'
+                CLUSTER_NAME = 'cluster-3'
+                LOCATION = 'us-west1-a'
                 CREDENTIALS_ID = 'Kubernetes'		
 	}
 	
